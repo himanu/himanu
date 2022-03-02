@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :computer: I'm a full-stack developer. 
+- 🔭 I’m currently working at CogniSaaS organisation.
+- 🌱 I’m currently learning more about web technology.
+- 👯 I’m looking to collaborate on blockchain projects.
+- 📫 How to reach me: hy287719@gmail.com, linkedin.com/himanu
+- 😄 Pronouns: He
+- ⚡ Fun fact: I am also a fitness freak, would love to talk about fitness also.

@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :computer: I'm a full-stack developer. 
-- 🔭 I’m currently working at CogniSaaS organisation.
 - 🌱 I’m currently learning more about web technology.
 - 👯 I’m looking to collaborate on blockchain projects.
 - 📫 How to reach me: hy287719@gmail.com, https://www.linkedin.com/in/himanshu-yadav-7554161b2/

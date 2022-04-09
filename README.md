@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on blockchain projects.
 - 📫 How to reach me: hy287719@gmail.com, https://www.linkedin.com/in/himanshu-yadav-7554161b2/
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am also a fitness freak, would love to talk about fitness also.
+- ⚡ Fun fact: I also loves doing workout.

@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :computer: I'm a full-stack developer. 
+- :computer: I'm a Software Engineer. 
 - 🌱 I’m currently learning more about web technology.
 - 👯 I’m looking to collaborate on blockchain projects.
-- 📫 How to reach me: hy287719@gmail.com, https://www.linkedin.com/in/himanshu-yadav-7554161b2/
+- 📫 How to reach me: https://www.linkedin.com/in/himanshu-yadav-7554161b2/
 - 😄 Pronouns: He

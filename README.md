@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :computer: I'm a Software Engineer. 
-- 🌱 I’m a lifelong learner and push myself to find answers to question.
-- 📚 I love reading/learning about economics, life evolution, psychology and history.
+- 🌱 I’m a lifelong learner.
+- 📚 I love reading/learning about Engineering, biology, economics, life evolution, psychology and history.
 - 📫 How to reach me: https://www.linkedin.com/in/himanshu-yadav-7554161b2/
 - 😄 Pronouns: He
